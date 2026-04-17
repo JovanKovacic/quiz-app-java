@@ -2,7 +2,8 @@
 
 > ⚠️ **Disclaimer**  
 > This project was created primarily to understand and demonstrate application logic and object-oriented design.  
-> It is intended as a learning project and serves as a foundation for implementing the same idea in other programming languages, as well as for future expansion into a web-based CRUD application with a database.
+> Java was chosen as the starting point due to my strongest proficiency in it, allowing me to fully focus on the underlying logic.  
+> The same application will be implemented in other programming languages in the future, as a way to better understand and learn those languages, as well as to strengthen my overall problem-solving skills.
 
 ---
 
